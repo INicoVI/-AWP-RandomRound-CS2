@@ -5,6 +5,7 @@ Rastgele Tur (Random Round)
 Bu Counter-Strike 2 eklentisi, sunucunuzda belirli aralıklarla oyuncuların rastgele özel tur modları için oylama yapmasını sağlar. Oylama sonucunda en çok oyu alan özel tur, bir sonraki turda otomatik olarak başlatılır.
 
 ✨ Özellikler
+
 Periyodik Oylama: Ayarlanabilir tur aralıklarında (VoteInterval), otomatik olarak özel tur oylaması başlatır.
 
 Çeşitli Tur Seçenekleri: Eklenti, AK-47, SSG08, Deagle, Nova gibi farklı silah turu seçenekleri sunar.
@@ -18,6 +19,7 @@ Komutla Oylama: Sunucu yöneticileri, oylama aralığına bakılmaksızın !rast
 Otomatik Konfigürasyon: Oylama sonucunda seçilen tur, ilgili sunucu ayarlarını (sv_gravity, mp_damage_headshot_only vb.) otomatik olarak değiştirir ve tur sonunda eski ayarlara geri döner.
 
 ⚙️ Kurulum
+
 RandomRound.dll dosyasını sunucunuzdaki csgo/addons/counterstrikesharp/plugins klasörüne kopyalayın.
 
 Eklentinin konfigürasyon dosyasını (RandomRound.json) csgo/addons/counterstrikesharp/configs/plugins klasöründe düzenleyebilirsiniz.
@@ -25,6 +27,7 @@ Eklentinin konfigürasyon dosyasını (RandomRound.json) csgo/addons/counterstri
 Sunucunuzu yeniden başlatın veya konsola css_plugins reload komutunu yazarak eklentiyi yükleyin.
 
 🛠️ Konfigürasyon
+
 configs/plugins/RandomRound.json dosyası üzerinden eklenti ayarlarını kişiselleştirebilirsiniz:
 
 JSON
@@ -41,6 +44,7 @@ VoteDuration: Oylamanın kaç saniye süreceğini belirler.
 GravityValue: Düşük yer çekimi turlarında yer çekiminin değerini ayarlar.
 
 🎮 Kullanım
+
 Eklenti, VoteInterval değerine göre otomatik olarak oylama başlatacaktır.
 
 Oylamayı manuel olarak başlatmak için, sunucu yöneticileri oyun içinde sohbet ekranına veya konsola aşağıdaki komutu yazabilir:
