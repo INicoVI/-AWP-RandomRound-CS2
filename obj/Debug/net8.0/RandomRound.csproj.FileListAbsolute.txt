@@ -1,0 +1,12 @@
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\bin\Debug\net8.0\RandomRound.deps.json
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\bin\Debug\net8.0\RandomRound.dll
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\bin\Debug\net8.0\RandomRound.pdb
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.csproj.AssemblyReference.cache
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.AssemblyInfoInputs.cache
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.AssemblyInfo.cs
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.csproj.CoreCompileInputs.cache
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.dll
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\refint\RandomRound.dll
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\RandomRound.pdb
+C:\Users\halim\Desktop\cs2-duckspeed-main - Kopya\BunnyVote\obj\Debug\net8.0\ref\RandomRound.dll

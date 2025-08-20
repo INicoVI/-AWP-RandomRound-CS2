@@ -1,0 +1,5 @@
+{
+  "VoteInterval": 15,
+  "VoteDuration": 30,
+  "GravityValue": 200
+}
